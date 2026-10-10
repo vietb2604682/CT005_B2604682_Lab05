@@ -6,4 +6,4 @@
 1. Google Form 1 (Nhập thông tin SV K52): https://forms.gle/VEHLe5t9pP8KzueAA
 2. Google Form 2 (Đăng ký tham quan TMA): https://forms.gle/91vW32bBWitq9td37
 3. Website Giới thiệu bản thân (Google Sites/GitHub Pages): https://sites.google.com/student.ctu.edu.vn/duonghoangviet-b2604682
-4. Bảng Quản lý Dự án Trello: https://trello.com/b/zzz
+4. Bảng Quản lý Dự án Trello: https://trello.com/invite/b/6ac9f0bd326a8f5b4766f9af/ATTI5af7946dd0ae9364e25dceecd6bf0451D2F5C598/kham-pha-cac-xu-hướng-cntt-mới-nổi
